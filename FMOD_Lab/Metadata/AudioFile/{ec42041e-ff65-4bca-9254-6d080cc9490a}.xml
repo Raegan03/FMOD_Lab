@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{ec42041e-ff65-4bca-9254-6d080cc9490a}">
+		<property name="assetPath">
+			<value>FromUnity/Footsteps/MetalSamples/metal_footstepWalk_04.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.4179591836734694</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db2f7bd7-e367-4397-a41f-0688841971e6}</destination>
+		</relationship>
+	</object>
+</objects>

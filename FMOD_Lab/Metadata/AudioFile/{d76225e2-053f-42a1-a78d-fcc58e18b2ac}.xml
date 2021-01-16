@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{d76225e2-053f-42a1-a78d-fcc58e18b2ac}">
+		<property name="assetPath">
+			<value>FromUnity/Sci-Fi/PM_FSSF2_USER_INTERFACE_SIMPLE_158.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0102494331065759</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db2f7bd7-e367-4397-a41f-0688841971e6}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{f1938e4e-d322-45a5-8247-4524d6ab3378}">
+		<property name="assetPath">
+			<value>FromUnity/Sci-Fi/DRONE Data Center Loop.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.6222222222222218</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db2f7bd7-e367-4397-a41f-0688841971e6}</destination>
+		</relationship>
+	</object>
+</objects>

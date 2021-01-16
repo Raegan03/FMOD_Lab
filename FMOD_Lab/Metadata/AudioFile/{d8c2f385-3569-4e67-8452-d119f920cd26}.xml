@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{d8c2f385-3569-4e67-8452-d119f920cd26}">
+		<property name="assetPath">
+			<value>FromUnity/Sci-Fi/PM_FSSF2_MICROTECH_29_FOOTSTEP.ogg</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.47083900226757369</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db2f7bd7-e367-4397-a41f-0688841971e6}</destination>
+		</relationship>
+	</object>
+</objects>
